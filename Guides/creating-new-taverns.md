@@ -17,7 +17,7 @@ Taverns can independently exist from a bar administrator, but some features will
 - Superuser managed taverns can not send out bar specific notifications.
 - Superuser managed taverns should not enable Skip-the-Line passes (as local bars may not want this)
 
-To create a new bar administrator account (for local bars), follow the "[Creating New Users](https://github.com/linehop/guides/blob/master/CREATING-NEW-USERS.md)" guide. Bar administrators have the ability to:
+To create a new bar administrator account (for local bars), follow the "[Creating New Users](https://github.com/linehop/guides/blob/master/Guides/creating-new-users.md)" guide. Bar administrators have the ability to:
 
 - Update profile information about their bar.
 - Send out bar-specific notifications.
@@ -33,12 +33,12 @@ To create a new bar administrator account (for local bars), follow the "[Creatin
 
 ![figure 2](https://cloud.githubusercontent.com/assets/6799989/9493525/292830bc-4bf8-11e5-9536-9e0f04fc127b.png)
 
-**C.** Fill out the form. Please remember to add a profile picture. You will need the taverns longitude and latitude, to get their geo-coordinates, follow the "[Getting the Geo-Coordinates](https://github.com/linehop/guides/blob/master/GEOCOORDINATES.md)" guide.
+**C.** Fill out the form. Please remember to add a profile picture. You will need the taverns longitude and latitude, to get their geo-coordinates, follow the "[Getting the Geo-Coordinates](https://github.com/linehop/guides/blob/master/Guides/geo-coordinates.md)" guide.
 
 **D.** Click "Save".
 
 ![figure 3](https://cloud.githubusercontent.com/assets/6799989/9493623/cf0ac602-4bf8-11e5-9b27-db1ffeb94a7a.png)
 
-**E.** (Optional) Add the tavern to a bar administrator account. You may do so by following the "[How do I add a new bar administrator?](https://github.com/linehop/guides/blob/master/CREATING-NEW-USERS.md#how-do-i-add-a-new-bar-administrator)" guide.
+**E.** (Optional) Add the tavern to a bar administrator account. You may do so by following the "[How do I add a new bar administrator?](https://github.com/linehop/guides/blob/master/Guides/creating-new-users.md#how-do-i-add-a-new-bar-administrator)" guide.
 
 If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)** ([douglas@cosmiclabs.io](mailto:douglas@cosmiclabs.io)) or **[@damonjones](https://www.github.com/damonjones)** ([damon@cosmiclabs.io](mailto:damon@cosmiclabs.io)).
