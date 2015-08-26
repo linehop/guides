@@ -10,7 +10,7 @@ Depending on which kind of user you hold, your account will have a different lev
 ## What is a superuser?
 Superusers hold the highest level of clearance that enables them to:
 
-- Create new bars and bar administrators.
+- Create new taverns and bar administrators.
 - Monitor taverns and bar administrators.
 - Update details about taverns and bar administrators.
 - Disable/Enable taverns on the platform.
