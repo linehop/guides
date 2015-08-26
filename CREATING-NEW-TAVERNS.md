@@ -39,6 +39,6 @@ To create a new bar administrator account (for local bars), follow the "[Creatin
 
 ![figure 3](https://cloud.githubusercontent.com/assets/6799989/9493623/cf0ac602-4bf8-11e5-9b27-db1ffeb94a7a.png)
 
-**E.** (Optional) Add the tavern to a bar administrator account. You may do so by following the "How to add a Tavern to a bar administrator" guide.
+**E.** (Optional) Add the tavern to a bar administrator account. You may do so by following the "[How do I add a new bar administrator?](https://github.com/linehop/guides/blob/master/CREATING-NEW-USERS.md#how-do-i-add-a-new-bar-administrator)" guide.
 
 If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)** ([douglas@cosmiclabs.io](mailto:douglas@cosmiclabs.io)) or **[@damonjones](https://www.github.com/damonjones)** ([damon@cosmiclabs.io](mailto:damon@cosmiclabs.io)).
