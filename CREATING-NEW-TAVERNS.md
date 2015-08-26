@@ -1,6 +1,6 @@
 # Creating New Taverns
 
-Superusers are the only user type with the correct priviledges to add a new tavern on the platform.
+Superusers are the only user type with the correct privileges to add a new tavern on the platform.
 
 ## What is a Tavern?
 Taverns are LineHop entities that are displayed to local LineHop users. A LineHop entity includes the following bits of information:
@@ -20,9 +20,9 @@ Taverns can independently exist from a bar administrator, but some features will
 To create a new bar administrator account (for local bars), follow the "[Creating New Users](https://github.com/linehop/guides/blob/master/CREATING-NEW-USERS.md)" guide. Bar administrators have the ability to:
 
 - Update profile information about their bar.
-- Send out bar specific notifications.
+- Send out bar-specific notifications.
 - Enable Skip-the-Line passes.
-- Overlook how Skip-the-Line pass sales are doing.
+- Monitor sales for Skip-the-Line passes.
 
 ## How do I create a new Tavern?
 **A.** Create a new Tavern by signing into https://linehop.us and navigating to the "Taverns" page (in the navigation bar). 
