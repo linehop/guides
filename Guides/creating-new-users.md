@@ -41,7 +41,7 @@ A bar administrator profile includes a username, email address, password and the
 
 **D.** Specify which bar you want this bar administrator to manage. 
 
-If you have not [created their tavern yet](https://github.com/linehop/guides/blob/master/Guides/creating-new-taverns.md), leave the drop down on the "Choose a tavern..." option. You can assign the bar to their user in the "Edit" panel after both have been setup.
+If you have not [created their tavern](https://github.com/linehop/guides/blob/master/Guides/creating-new-taverns.md) yet, leave the drop down on the "Choose a tavern..." option. You can assign the bar to their user in the "Edit" panel after both have been setup.
 
 **E.** Click "Save".
 
