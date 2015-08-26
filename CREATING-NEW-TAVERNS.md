@@ -17,7 +17,7 @@ Taverns can independently exist from a bar administrator, but some features will
 - Superuser managed taverns can not send out bar specific notifications.
 - Superuser managed taverns should not enable Skip-the-Line passes (as local bars may not want this)
 
-To create a new bar administrator account (for local bars), follow the "Creating New Users" guide. Bar administrators have the ability to:
+To create a new bar administrator account (for local bars), follow the "[Creating New Users](https://github.com/linehop/guides/blob/master/CREATING-NEW-USERS.md)" guide. Bar administrators have the ability to:
 
 - Update profile information about their bar.
 - Send out bar specific notifications.
