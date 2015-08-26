@@ -15,7 +15,7 @@ Superusers hold the highest level of clearance that enables them to:
 - Update details about taverns and bar administrators.
 - Disable/Enable taverns on the platform.
 - Monitor Skip-the-Line pass sales for every tavern.
-- Send out global notifications.
+- Send out global notifications. (Read "Sending out Notifications")
 
 A superuser profile includes a username, email address and password. You will need to contact **[@istx25](https://www.github.com/istx25)** ([douglas@cosmiclabs.io](mailto:douglas@cosmiclabs.io)) or **[@damonjones](https://www.github.com/damonjones)** ([damon@cosmiclabs.io](mailto:damon@cosmiclabs.io)) to create a new superuser.
 
