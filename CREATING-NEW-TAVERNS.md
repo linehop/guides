@@ -33,7 +33,7 @@ To create a new bar administrator account (for local bars), follow the "Creating
 
 ![figure 2](https://cloud.githubusercontent.com/assets/6799989/9493525/292830bc-4bf8-11e5-9536-9e0f04fc127b.png)
 
-**C.** Fill out the form. Please remember to add a profile picture. You will need the taverns longitude and latitude, to get their geocoordinates, follow the "How to get the Tavern's geocoordinates" guide.
+**C.** Fill out the form. Please remember to add a profile picture. You will need the taverns longitude and latitude, to get their geocoordinates, follow the "[Getting the Geo-Coordinates](https://github.com/linehop/guides/blob/master/GEOCOORDINATES.md)" guide.
 
 **D.** Click "Save".
 
