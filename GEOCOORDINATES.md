@@ -31,7 +31,7 @@ https://www.google.com/maps/place/Sammy+J's+Grill+%26+Bar+Langley/@49.1184016,-1
 !3m1!1s0x0000000000000000:0xa1108e3b4f7b55b1?hl=en
 ```
 
-We need the `@49.1184016,-122.673901` and lastly you will need to remove the "@" and add a space between the comma and the start of the latitude.
+Look for the geo-coordinates (which will look like `@49.1184016,-122.673901`) but you will need to remove the "@" from the start.
 
 **G.** Add the geo-coordinates to your tavern by following the "[How do I create a new Tavern?](https://github.com/linehop/guides/blob/master/CREATING-NEW-TAVERNS.md#how-do-i-create-a-new-tavern)" guide.
 
