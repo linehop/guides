@@ -23,5 +23,18 @@ To create a new bar administrator account (for local bars), follow the "Creating
 - Enable Skip-the-Line passes.
 
 ## How do I create a new Tavern?
+**A.** Superusers can create a new Tavern by signing into https://linehop.us and navigating to the "Taverns" page (in the navigation bar). 
 
-Superusers can create a new Tavern by signing into https://linehop.us and navigating to the "Taverns" page (in the navigation bar).
+![figure 1](https://cloud.githubusercontent.com/assets/6799989/9493462/96da2954-4bf7-11e5-8a8b-369987e21d6a.png)
+
+**B.** Scroll to the bottom of the page and click the blue "Create a new tavern" button.
+
+![figure 2](https://cloud.githubusercontent.com/assets/6799989/9493525/292830bc-4bf8-11e5-9536-9e0f04fc127b.png)
+
+**C.** Fill out the form. Please remember to add a profile picture. You will need the taverns longitude and latitude, to get their geocoordinates, follow the "How to get the Tavern's geocoordinates" guide.
+
+**D.** Click "Save".
+
+![figure 3](https://cloud.githubusercontent.com/assets/6799989/9493623/cf0ac602-4bf8-11e5-9b27-db1ffeb94a7a.png)
+
+**E.** (Optional) Add the tavern to a bar administrator account. You may do so by following the "How to add a Tavern to a bar administrator" guide.
