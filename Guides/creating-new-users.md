@@ -5,7 +5,7 @@ LineHop has three types of users available on the platform. These three types in
 - Bar administrator user
 - Facebook/iOS app user
 
-Depending on which kind of user you hold, your account will have a different level of clearance with their own set of privileges. Facebook/iOS app users do not have the level of clearance needed to access the web-administrative panel. This portal is reserved for superusers and bar administrators.
+Depending on which kind of user you are, your account will have a different level of clearance with its own set of privileges. Facebook/iOS app users do not have the level of clearance needed to access the web-administrative panel. This portal is reserved for superusers and bar administrators.
 
 ## What is a superuser?
 Superusers hold the highest level of clearance that enables them to:
@@ -17,7 +17,7 @@ Superusers hold the highest level of clearance that enables them to:
 - Monitor Skip-the-Line pass sales for every tavern.
 - Send out global notifications. (Read "Sending out Notifications")
 
-A superuser profile includes a username, email address and password. You will need to contact **[@istx25](https://www.github.com/istx25)** ([douglas@cosmiclabs.io](mailto:douglas@cosmiclabs.io)) or **[@damonjones](https://www.github.com/damonjones)** ([damon@cosmiclabs.io](mailto:damon@cosmiclabs.io)) to create a new superuser.
+A superuser profile includes a username and password. You will need to contact **[@istx25](https://www.github.com/istx25)** ([douglas@cosmiclabs.io](mailto:douglas@cosmiclabs.io)) or **[@damonjones](https://www.github.com/damonjones)** ([damon@cosmiclabs.io](mailto:damon@cosmiclabs.io)) to create a new superuser.
 
 ## What is a bar administrator?
 Bar administrators hold the middle clearance level that enables them to:
