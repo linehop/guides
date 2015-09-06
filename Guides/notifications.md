@@ -18,5 +18,4 @@ Targeted notifications are sent out to (iOS) LineHop users who have previously s
 
 ![figure 2](https://cloud.githubusercontent.com/assets/6799989/9706007/1b5d5b2a-54d0-11e5-8ca9-5bd11f70ffc3.png)
 
-**D.** Confirm your notification says what you want before clicking "Post". If you find a mistake, click "Cancel" and correct it. 
-> Clicking "Post" will send the notification out to all LineHop users.
+**D.** Confirm your notification says what you want before clicking "Post". If you find a mistake, click "Cancel" and correct it. Clicking "Post" will send the notification out to all LineHop users.
