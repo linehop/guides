@@ -15,7 +15,7 @@ Superusers hold the highest level of clearance that enables them to:
 - Update details about taverns and bar administrators.
 - Disable/Enable taverns on the platform.
 - Monitor Skip-the-Line pass sales for every tavern.
-- Send out global notifications. (Read "Sending out Notifications")
+- Send out global notifications. (Read [How do I send out global notifications?](https://github.com/linehop/guides/blob/master/Guides/notifications.md#how-do-i-send-out-global-notifications))
 
 A superuser profile includes a username and password. You will need to contact **[@istx25](https://www.github.com/istx25)** ([douglas@cosmiclabs.io](mailto:douglas@cosmiclabs.io)) or **[@damonjones](https://www.github.com/damonjones)** ([damon@cosmiclabs.io](mailto:damon@cosmiclabs.io)) to create a new superuser.
 
@@ -24,7 +24,7 @@ Bar administrators hold the middle clearance level that enables them to:
 
 - Monitor their own tavern.
 - Monitor Skip-the-Line pass sales for their tavern.
-- Send out bar-specific notifications. (Read "Sending out Notifications")
+- Send out bar-specific notifications. (Read [How do I send out targeted notifications?](https://github.com/linehop/guides/blob/master/Guides/notifications.md#how-do-i-send-out-targeted-notifications))
 
 A bar administrator profile includes a username, email address, password and the bar that they're managing. Superusers can create new bar administrator accounts. Please follow the guide below.
 
