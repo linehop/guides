@@ -6,3 +6,16 @@ Global notifications are sent out to all (iOS) LineHop users. Push Notifications
 
 ## What is a targeted notification?
 Targeted notifications are sent out to (iOS) LineHop users who have previously subscribed to receive updates will receive the targeted notification. Push Notifications need to be enabled.
+
+# How do I send out global notifications?
+**A.** Send out a global notification by signing into https://linehop.us (with a superuser account) and navigating to the "Post a Notification" page (in the navigation bar). 
+
+![figure 1](https://cloud.githubusercontent.com/assets/6799989/9705998/d7cf779e-54cf-11e5-8a15-6b6dfca68065.png)
+
+**B.** Type what you want the notification to say in the text field.
+
+**C.** Click the blue "Post Notification" button.
+
+![figure 2](https://cloud.githubusercontent.com/assets/6799989/9706007/1b5d5b2a-54d0-11e5-8ca9-5bd11f70ffc3.png)
+
+**D.** Confirm your notification is correct and send the notification out by clicking "Post". Once this is clicked, there is no going back. All LineHop users (with Push Notifications enabled) will receive this message. If you made a mistake, click cancel and correct it.
