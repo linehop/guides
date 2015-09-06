@@ -19,3 +19,18 @@ Targeted notifications are sent out to (iOS) LineHop users who have previously s
 ![figure 2](https://cloud.githubusercontent.com/assets/6799989/9706007/1b5d5b2a-54d0-11e5-8ca9-5bd11f70ffc3.png)
 
 **D.** Confirm your notification says what you want before clicking "Post". If you find a mistake, click "Cancel" and correct it. Clicking "Post" will send the notification out to all LineHop users.
+
+# How do I send out targeted notifications?
+**A.** Send targeted notification(s) by signing into https://linehop.us and navigating to the "Post a Notification" page (in the navigation bar). 
+
+![figure 1](https://cloud.githubusercontent.com/assets/6799989/9706102/a1b1b5fc-54d2-11e5-8310-f3703b03b5df.png)
+
+**B.** Enter what you want the notification to say in the text field.
+
+**C.** Click the blue "Post Notification" button to continue.
+
+![figure 2](https://cloud.githubusercontent.com/assets/6799989/9706007/1b5d5b2a-54d0-11e5-8ca9-5bd11f70ffc3.png)
+
+**D.** Confirm your notification says what you want before clicking "Post". If you find a mistake, click "Cancel" and correct it. Clicking "Post" will send the notification out to all subscribing LineHop users.
+
+If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)** ([douglas@cosmiclabs.io](mailto:douglas@cosmiclabs.io)) or **[@damonjones](https://www.github.com/damonjones)** ([damon@cosmiclabs.io](mailto:damon@cosmiclabs.io)).
