@@ -1,6 +1,6 @@
 # LineHop Guides
 
-Here is a list of comprehensive guides that explain various LineHop functionality. These guides are aimed at Superusers, Bar administrators and local bar staff (bouncers).
+Here is a list of comprehensive guides that explain various LineHop functions. These guides are aimed at Superusers, Bar administrators and local bar staff (bouncers).
 
 #### Guides for Superusers and Bar administrators
 - Creating new taverns: **[Click Here](https://github.com/linehop/guides/blob/master/Guides/creating-new-taverns.md)**
