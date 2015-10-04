@@ -9,7 +9,7 @@ Here is a list of comprehensive guides that explain various LineHop functions. T
 
 #### Guides for Bouncers
 - Bar entry: **[Click Here](https://github.com/linehop/guides/blob/master/Bouncers/entry.md)**
-- Rejecting LineHop Users: **[Click Here](https://github.com/linehop/guides/blob/master/Bouncers/rejection.md)**
+- Rejecting entry: **[Click Here](https://github.com/linehop/guides/blob/master/Bouncers/rejection.md)**
 
 #### Miscellaneous Guides
 - Getting the Geo-coordinates: **[Click Here](https://github.com/linehop/guides/blob/master/Guides/geo-coordinates.md)**
