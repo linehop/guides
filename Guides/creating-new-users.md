@@ -17,7 +17,7 @@ Superusers hold the highest level of clearance that enables them to:
 - Monitor Skip-the-Line pass sales for every tavern.
 - Send out global notifications. (Read [How do I send out global notifications?](https://github.com/linehop/guides/blob/master/Guides/notifications.md#how-do-i-send-out-global-notifications))
 
-A superuser profile includes a username and password. You will need to contact **[@istx25](https://www.github.com/istx25)** ([douglas@cosmiclabs.io](mailto:douglas@cosmiclabs.io)) or **[@damonjones](https://www.github.com/damonjones)** ([damon@cosmiclabs.io](mailto:damon@cosmiclabs.io)) to create a new superuser.
+A superuser profile includes a username and password. You will need to contact **[@istx25](https://www.github.com/istx25)** or **[@damonjones](https://www.github.com/damonjones)** to create a new superuser.
 
 ## What is a bar administrator?
 Bar administrators hold the middle clearance level that enables them to:
@@ -47,4 +47,4 @@ If you have not [created their tavern](https://github.com/linehop/guides/blob/ma
 
 ![figure 3](https://cloud.githubusercontent.com/assets/6799989/9493623/cf0ac602-4bf8-11e5-9b27-db1ffeb94a7a.png)
 
-If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)** ([douglas@cosmiclabs.io](mailto:douglas@cosmiclabs.io)) or **[@damonjones](https://www.github.com/damonjones)** ([damon@cosmiclabs.io](mailto:damon@cosmiclabs.io)).
+If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)** or **[@damonjones](https://www.github.com/damonjones)**.
