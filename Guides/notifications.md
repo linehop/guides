@@ -33,4 +33,4 @@ Targeted notifications are sent out to (iOS) LineHop users who are subscribed to
 
 **D.** Confirm your notification text is correct before clicking "Post". If you find a mistake, click "Cancel" and correct it. Clicking "Post" will send the notification out to all subscribing LineHop users.
 
-If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)** ([douglas@cosmiclabs.io](mailto:douglas@cosmiclabs.io)) or **[@damonjones](https://www.github.com/damonjones)** ([damon@cosmiclabs.io](mailto:damon@cosmiclabs.io)).
+If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)** or **[@damonjones](https://www.github.com/damonjones)**.
