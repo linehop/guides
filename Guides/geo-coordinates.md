@@ -35,4 +35,4 @@ Look for the geo-coordinates (which will look like `@49.1184016,-122.673901`) bu
 
 **G.** Add the geo-coordinates to your tavern by following the "[How do I create a new Tavern?](https://github.com/linehop/guides/blob/master/Guides/creating-new-taverns.md#how-do-i-create-a-new-tavern)" guide.
 
-If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)** ([douglas@cosmiclabs.io](mailto:douglas@cosmiclabs.io)) or **[@damonjones](https://www.github.com/damonjones)** ([damon@cosmiclabs.io](mailto:damon@cosmiclabs.io)).
+If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)** or **[@damonjones](https://www.github.com/damonjones)**.
