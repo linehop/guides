@@ -1,5 +1,6 @@
 # Getting the Geo-Coordinates
-Geo-coordinates need to be manually provided by superusers or bar administrators for LineHop to know where the tavern is in relation to local LineHop users. You may do so by following these simple steps:
+
+Geo-coordinates need to be manually provided by superusers or bar administrators for LineHop to know where the bar is in relation to local LineHop users. You may do so by following these simple steps:
 
 **A:** Know the mailing address of the bar.
 
@@ -32,7 +33,3 @@ https://www.google.com/maps/place/Sammy+J's+Grill+%26+Bar+Langley/@49.1184016,-1
 ```
 
 Look for the geo-coordinates (which will look like `@49.1184016,-122.673901`) but you will need to remove the "@" from the start.
-
-**G.** Add the geo-coordinates to your tavern by following the "[How do I create a new Tavern?](https://github.com/linehop/guides/blob/master/Guides/creating-new-taverns.md#how-do-i-create-a-new-tavern)" guide.
-
-If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)** or **[@damonjones](https://www.github.com/damonjones)**.
