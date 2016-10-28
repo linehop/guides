@@ -1,3 +1,6 @@
+# `DEPRECATED`
+This document is no longer accurate as of LineHop 2.3.0.
+
 # Miscellaneous Information
 
 This markdown file is for short guides/info about miscellaneous topics.
