@@ -1,3 +1,6 @@
+# `DEPRECATED`
+This document is no longer accurate as of LineHop 2.3.0.
+
 # Bar Entry
 
 This guide is for bars who sell skip-the-line passes through LineHop. Please have your employees/bouncers read over this guide to ensure optimal results.
