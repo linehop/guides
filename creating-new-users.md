@@ -10,11 +10,11 @@ Depending on which kind of user you are, your account will have a different leve
 ## What is a superuser?
 Superusers hold the highest level of clearance that enables them to:
 
-- Create new taverns and bar administrators.
-- Monitor taverns and bar administrators.
-- Update details about taverns and bar administrators.
-- Disable/Enable taverns on the platform.
-- Monitor Skip-the-Line pass sales for every tavern.
+- Create new bars and bar administrators.
+- Monitor bars and bar administrators.
+- Update details about bars and bar administrators.
+- Disable/Enable bars on the platform.
+- Monitor Skip-the-Line pass sales for every bar.
 - Send out global notifications. (Read [How do I send out global notifications?](https://github.com/linehop/guides/blob/master/Guides/notifications.md#how-do-i-send-out-global-notifications))
 
 A superuser profile includes a username and password. You will need to contact **[@istx25](https://www.github.com/istx25)** or **[@damonjones](https://www.github.com/damonjones)** to create a new superuser.
@@ -22,8 +22,8 @@ A superuser profile includes a username and password. You will need to contact *
 ## What is a bar administrator?
 Bar administrators hold the middle clearance level that enables them to:
 
-- Monitor their own tavern.
-- Monitor Skip-the-Line pass sales for their tavern.
+- Monitor their own bar.
+- Monitor Skip-the-Line pass sales for their bar.
 - Send out bar-specific notifications. (Read [How do I send out targeted notifications?](https://github.com/linehop/guides/blob/master/Guides/notifications.md#how-do-i-send-out-targeted-notifications))
 
 A bar administrator profile includes a username, email address, password and the bar that they're managing. Superusers can create new bar administrator accounts. Please follow the guide below.
@@ -47,4 +47,4 @@ If you have not [created their tavern](https://github.com/linehop/guides/blob/ma
 
 ![figure 3](https://cloud.githubusercontent.com/assets/6799989/9493623/cf0ac602-4bf8-11e5-9b27-db1ffeb94a7a.png)
 
-If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)** or **[@damonjones](https://www.github.com/damonjones)**.
+If you have any questions or concerns, please feel free to reach out to **[@istx25](https://www.github.com/istx25)**.
