@@ -1,3 +1,6 @@
+# `DEPRECATED`
+This document is no longer accurate as of LineHop 2.3.0.
+
 # Creating New Bars
 
 Superusers are the only user type with the correct privileges to add a new bar on the platform.
@@ -16,7 +19,7 @@ Bars can independently exist from a bar administrator, but some features will be
 
 - Superuser managed bars should not enable Skip-the-Line passes (as local bars may not want this)
 
-To create a new bar administrator account (for local bars), follow the "[Creating New Users](https://github.com/linehop/guides/blob/master/Guides/creating-new-users.md)" guide. Bar administrators have the ability to:
+To create a new bar administrator account (for local bars), follow the "Creating New Users" guide. Bar administrators have the ability to:
 
 - Update profile information about their bar.
 - Enable Skip-the-Line passes.
