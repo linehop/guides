@@ -1,3 +1,6 @@
+# `DEPRECATED`
+This document is no longer accurate as of LineHop 2.3.0.
+
 # Creating New Users
 LineHop has three types of users available on the platform. These three types include:
 
